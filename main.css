@@ -1,0 +1,28 @@
+.site-header{
+    background-color: rgba(179, 255, 0, 0.466);
+    color: rgb(34, 146, 146);
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    align-self: center;
+    box-shadow: 3px 1px 0px 1px;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+body{
+    margin: 0%;
+}
+.course-link{
+    color: rgb(34, 146, 146);
+}
